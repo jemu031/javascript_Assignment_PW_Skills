@@ -1,0 +1,14 @@
+Operators in javascript:
+
+Operators in JavaScript are symbols that perform
+operations on operands. Operands can be values or variables, and operators
+define how these operands interact. JavaScript supports a variety of operators,
+each serving a specific purpose. 
+
+
+Role of Opeators in javascript:
+
+Operators in JavaScript play a crucial role in
+performing various operations on data, making decisions, and controlling the
+flow of a program. They are essential for expressing the logic and functionality
+of your code in a concise and efficient manner.
